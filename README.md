@@ -25,5 +25,4 @@ This project focuses on the analytical study and working principles of an Ion Th
 - Project Presentation (PPT)
 
 ## Author
-- Arupya T
-- Aerospace Engineering Graduate – 2025
+Arupya T ( Aerospace Engineering Graduate – 2025 )
